@@ -12,7 +12,7 @@ How to use:
   <system.web>
     <pages controlRenderingCompatibilityVersion="4.0">
       <controls>
-        <add tagPrefix="uc" src="~/modulos/UcTable.ascx" tagName="table" />
+        <add tagPrefix="uc" src="~/UcTable.ascx" tagName="table" />
       </controls>
     </pages>
   </system.web>
